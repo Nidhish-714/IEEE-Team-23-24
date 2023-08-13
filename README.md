@@ -66,3 +66,5 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Somrath Bisen](https://www.linkedin.com/in/somrath-bisen-5549441aa/ "Open LinkedIn"). PR
 
+[Nidhish Wakodikar] (https://www.linkedin.com/in/nidhish-wakodikar-b00117259/). Techincal
+
